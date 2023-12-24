@@ -4,7 +4,7 @@ class a:
         self.name=name
     def music():
         print("hello world")  
-        me(a,b)
+        
     def me(a,b):
         print("hello")
 newacc=a.music()
